@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+data/cardio_cleaned.db
+models/best_cardio_model.joblib
+.DS_Store
