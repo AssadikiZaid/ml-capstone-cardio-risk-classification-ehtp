@@ -1,10 +1,10 @@
 ## Cardiovascular Disease Risk Classification Pipeline
 
-This repository contains the complete end-to-end data science and machine learning pipeline for cardiovascular disease (CVD) risk classification. This project is Zaid's Capstone Project for the **AI & Data Science Basics** module (Semester S4) at **École Hassania des Travaux Publics (EHTP)**.
+This repository contains the complete end-to-end data science and machine learning pipeline for cardiovascular disease (CVD) risk classification. This project is my Capstone Project for the **AI & Data Science Basics** module (Semester S4) at **École Hassania des Travaux Publics (EHTP)**.
 
 ## Project Specifications
 
-- **Student Name:** Assadiki Zaid
+- **Author:** Assadiki Zaid
 - **Academic Mentor:** Dr. Rym Nassih
 - **Department:** MIG Department, École Hassania des Travaux Publics
 - **Module:** AI & Data Science Basics (Semester S4)
