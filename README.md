@@ -16,7 +16,7 @@ This repository contains the complete end-to-end data science and machine learni
 ## Repository Structure
 
 ```text
-FinalProject/
+ml-capstone-cardio-risk-classification-ehtp/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
@@ -32,9 +32,10 @@ FinalProject/
 ├── models/
 │   └── best_cardio_model.joblib
 └── reports/
+    ├── FinalProjectAI_Presentation.pdf
+    ├── FinalProjectAI_Report.pdf
     ├── Phase4_Algorithm_Selection.md
-    ├── Phase6_Model_Card.md
-    └── Phase7_Final_Technical_Report.md
+    └── Phase6_Model_Card.md
 ```
 
 ---
